@@ -5,6 +5,6 @@
 	<title>Document</title>
 </head>
 <body>
-	
+	<button type="button" class="btn btn-default">button</button>
 </body>
 </html>
